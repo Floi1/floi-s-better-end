@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "floi_better_end:block/smallvines"
+    },
+    "half=lower": {
+      "model": "floi_better_end:block/smallvines_bottom"
+    }
+  }
+}

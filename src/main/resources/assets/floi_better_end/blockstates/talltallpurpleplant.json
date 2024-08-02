@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "floi_better_end:block/talltallpurpleplant"
+    },
+    "half=lower": {
+      "model": "floi_better_end:block/talltallpurpleplant_bottom"
+    }
+  }
+}

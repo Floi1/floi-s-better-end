@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "floi_better_end:block/blobslabbrick"
+    },
+    "type=top": {
+      "model": "floi_better_end:block/blobslabbrick_top"
+    },
+    "type=double": {
+      "model": "floi_better_end:block/blobslabbrick_full"
+    }
+  }
+}
