@@ -1,0 +1,687 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bob",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bob",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/models/item/bob.json",
+          "src/main/resources/assets/floi_better_end/models/block/bob.json",
+          "src/main/java/net/mcreator/floibetterend/block/BobBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/bob.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/bob.json",
+          "src/main/resources/assets/floi_better_end/blockstates/bob.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/bob_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/bob.json"
+        ]
+      }
+    },
+    {
+      "name": "Purpleoreblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpleoreblock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/block/PurpleoreblockBlock.java",
+          "src/main/resources/assets/floi_better_end/models/item/purpleoreblock.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/purpleoreblock.json",
+          "src/main/resources/assets/floi_better_end/models/block/purpleoreblock.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/purpleoreblock.json",
+          "src/main/resources/assets/floi_better_end/blockstates/purpleoreblock.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/purpleoreblock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/purpleoreblock_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PUrpleore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p_urpleore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/item/PUrpleoreItem.java",
+          "src/main/resources/assets/floi_better_end/models/item/p_urpleore.json"
+        ]
+      }
+    },
+    {
+      "name": "Endgrass",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgrass",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/endgrass.json",
+          "src/main/resources/assets/floi_better_end/models/item/endgrass.json",
+          "src/main/java/net/mcreator/floibetterend/block/EndgrassBlock.java",
+          "src/main/resources/assets/floi_better_end/blockstates/endgrass.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/endgrass.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/endgrass.json",
+          "src/main/resources/assets/floi_better_end/models/block/endgrass.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/endgrass_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Talltallpurpleplant",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "talltallpurpleplant",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/talltallpurpleplant_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/talltallpurpleplant.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/talltallpurpleplant.json",
+          "src/main/resources/assets/floi_better_end/models/item/talltallpurpleplant.json",
+          "src/main/java/net/mcreator/floibetterend/block/TalltallpurpleplantBlock.java",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/talltallpurpleplant.json",
+          "src/main/resources/assets/floi_better_end/models/block/talltallpurpleplant.json",
+          "src/main/resources/assets/floi_better_end/models/block/talltallpurpleplant_bottom.json",
+          "src/main/resources/assets/floi_better_end/blockstates/talltallpurpleplant.json"
+        ]
+      }
+    },
+    {
+      "name": "Greenendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "greenendrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/greenendrock.json",
+          "src/main/resources/assets/floi_better_end/models/item/greenendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/greenendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/greenendrock.json",
+          "src/main/java/net/mcreator/floibetterend/block/GreenendrockBlock.java",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/greenendrock_biome_modifier.json",
+          "src/main/resources/assets/floi_better_end/blockstates/greenendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/greenendrock.json"
+        ]
+      }
+    },
+    {
+      "name": "Endflower",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endflower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/endflower_biome_modifier.json",
+          "src/main/java/net/mcreator/floibetterend/block/EndflowerBlock.java",
+          "src/main/resources/assets/floi_better_end/models/item/endflower.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/endflower.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/endflower.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/endflower.json",
+          "src/main/resources/assets/floi_better_end/models/block/endflower.json",
+          "src/main/resources/assets/floi_better_end/blockstates/endflower.json"
+        ]
+      }
+    },
+    {
+      "name": "Endoil",
+      "type": "fluid",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_oil",
+      "metadata": {
+        "gb": true,
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/block/EndoilBlock.java",
+          "src/main/resources/assets/floi_better_end/blockstates/end_oil.json",
+          "src/main/java/net/mcreator/floibetterend/fluid/EndoilFluid.java",
+          "src/main/java/net/mcreator/floibetterend/item/EndoilItem.java",
+          "src/main/java/net/mcreator/floibetterend/fluid/types/EndoilFluidType.java",
+          "src/main/resources/assets/floi_better_end/models/item/end_oil_bucket.json",
+          "src/main/resources/assets/floi_better_end/models/block/end_oil.json"
+        ]
+      }
+    },
+    {
+      "name": "Redendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redendrock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/block/RedendrockBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/redendrock.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/redendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/redendrock.json",
+          "src/main/resources/assets/floi_better_end/blockstates/redendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/redendrock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/redendrock_biome_modifier.json",
+          "src/main/resources/assets/floi_better_end/models/item/redendrock.json"
+        ]
+      }
+    },
+    {
+      "name": "Blueendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blueendrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/blueendrock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/blueendrock_biome_modifier.json",
+          "src/main/resources/assets/floi_better_end/blockstates/blueendrock.json",
+          "src/main/resources/assets/floi_better_end/models/item/blueendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/blueendrock.json",
+          "src/main/java/net/mcreator/floibetterend/block/BlueendrockBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/blueendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/blueendrock.json"
+        ]
+      }
+    },
+    {
+      "name": "Yellowendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellowendrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/blockstates/yellowendrock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/yellowendrock_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/yellowendrock.json",
+          "src/main/resources/assets/floi_better_end/models/item/yellowendrock.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/yellowendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/yellowendrock.json",
+          "src/main/java/net/mcreator/floibetterend/block/YellowendrockBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/yellowendrock.json"
+        ]
+      }
+    },
+    {
+      "name": "Endvines",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endvines",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/block/EndvinesBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/endvines.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/endvines.json",
+          "src/main/resources/assets/floi_better_end/models/block/endvines.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/endvines.json",
+          "src/main/resources/assets/floi_better_end/models/item/endvines.json",
+          "src/main/resources/assets/floi_better_end/blockstates/endvines.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/endvines_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Orangeendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orangeendrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/orangeendrock.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/orangeendrock.json",
+          "src/main/resources/assets/floi_better_end/models/item/orangeendrock.json",
+          "src/main/resources/assets/floi_better_end/blockstates/orangeendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/orangeendrock.json",
+          "src/main/java/net/mcreator/floibetterend/block/OrangeendrockBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/orangeendrock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/orangeendrock_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Shine",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shine",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/block/ShineBlock.java",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/shine.json",
+          "src/main/resources/assets/floi_better_end/models/block/shine.json",
+          "src/main/resources/assets/floi_better_end/blockstates/shine.json",
+          "src/main/resources/assets/floi_better_end/models/item/shine.json"
+        ]
+      }
+    },
+    {
+      "name": "Packedblob",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "packedblob",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/models/block/packedblob.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/packedblob.json",
+          "src/main/java/net/mcreator/floibetterend/block/PackedblobBlock.java",
+          "src/main/resources/assets/floi_better_end/models/item/packedblob.json",
+          "src/main/resources/assets/floi_better_end/blockstates/packedblob.json"
+        ]
+      }
+    },
+    {
+      "name": "Blobpackedrep",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobpackedrep",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/recipes/blobpackedrep.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackendrock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackendrock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/blockstates/blackendrock.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/blackendrock.json",
+          "src/main/resources/assets/floi_better_end/models/block/blackendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/blackendrock.json",
+          "src/main/java/net/mcreator/floibetterend/block/BlackendrockBlock.java",
+          "src/main/resources/assets/floi_better_end/models/item/blackendrock.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/blackendrock.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/blackendrock_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "BlobswordEntitySwingsItem",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobsword_entity_swings_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/procedures/BlobswordEntitySwingsItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blobsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/floibetterend/item/BlobswordItem.java",
+          "src/main/resources/assets/floi_better_end/models/item/blobsword.json"
+        ]
+      }
+    },
+    {
+      "name": "Blobswordrep",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobswordrep",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/recipes/blobswordrep.json"
+        ]
+      }
+    },
+    {
+      "name": "Blobbrick",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobbrick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/blockstates/blobbrick.json",
+          "src/main/resources/assets/floi_better_end/models/block/blobbrick.json",
+          "src/main/resources/assets/floi_better_end/models/item/blobbrick.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/blobbrick.json",
+          "src/main/java/net/mcreator/floibetterend/block/BlobbrickBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Brickstuffrep",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brickstuffrep",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/recipes/brickstuffrep.json"
+        ]
+      }
+    },
+    {
+      "name": "Blobslabbrick",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blobslabbrick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/models/block/blobslabbrick_top.json",
+          "src/main/java/net/mcreator/floibetterend/block/BlobslabbrickBlock.java",
+          "src/main/resources/assets/floi_better_end/models/block/blobslabbrick_full.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/blobslabbrick.json",
+          "src/main/resources/assets/floi_better_end/models/item/blobslabbrick.json",
+          "src/main/resources/assets/floi_better_end/blockstates/blobslabbrick.json",
+          "src/main/resources/assets/floi_better_end/models/block/blobslabbrick.json"
+        ]
+      }
+    },
+    {
+      "name": "Brickslab",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brickslab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/recipes/brickslab.json"
+        ]
+      }
+    },
+    {
+      "name": "Smallvines",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smallvines",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/models/item/smallvines.json",
+          "src/main/java/net/mcreator/floibetterend/block/SmallvinesBlock.java",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/smallvines_biome_modifier.json",
+          "src/main/resources/assets/floi_better_end/blockstates/smallvines.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/smallvines.json",
+          "src/main/resources/assets/floi_better_end/models/block/smallvines_bottom.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/smallvines.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/smallvines.json",
+          "src/main/resources/assets/floi_better_end/models/block/smallvines.json"
+        ]
+      }
+    },
+    {
+      "name": "EndoilFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endoil_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/endoil_feature.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/endoil_feature_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/endoil_feature.json"
+        ]
+      }
+    },
+    {
+      "name": "Corruptedpurplestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corruptedpurplestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/corruptedpurplestone.json",
+          "src/main/resources/assets/floi_better_end/models/item/corruptedpurplestone.json",
+          "src/main/resources/assets/floi_better_end/models/block/corruptedpurplestone.json",
+          "src/main/resources/assets/floi_better_end/blockstates/corruptedpurplestone.json",
+          "src/main/java/net/mcreator/floibetterend/block/CorruptedpurplestoneBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ShinestreFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shinestre_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/shinestre_feature_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/shinestre_feature.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/shinestre_feature.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "BigshinestrueFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bigshinestrue_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/bigshinestrue_feature.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/bigshinestrue_feature.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/bigshinestrue_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "BigbaseFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bigbase_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/bigbase_feature.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/bigbase_feature.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/bigbase_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "Test",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/test_biome_modifier.json",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/test.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/test.json"
+        ]
+      }
+    },
+    {
+      "name": "Bluereel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluereel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/blockstates/bluereel.json",
+          "src/main/resources/assets/floi_better_end/models/item/bluereel.json",
+          "src/main/resources/data/floi_better_end/forge/biome_modifier/bluereel_biome_modifier.json",
+          "src/main/java/net/mcreator/floibetterend/block/BluereelBlock.java",
+          "src/main/resources/data/floi_better_end/worldgen/configured_feature/bluereel.json",
+          "src/main/resources/data/floi_better_end/worldgen/placed_feature/bluereel.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/bluereel.json",
+          "src/main/resources/assets/floi_better_end/models/block/bluereel.json"
+        ]
+      }
+    },
+    {
+      "name": "Logreel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logreel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/floi_better_end/models/block/logreel.json",
+          "src/main/resources/assets/floi_better_end/models/item/logreel.json",
+          "src/main/java/net/mcreator/floibetterend/block/LogreelBlock.java",
+          "src/main/resources/assets/floi_better_end/blockstates/logreel.json",
+          "src/main/resources/data/floi_better_end/loot_tables/blocks/logreel.json"
+        ]
+      }
+    },
+    {
+      "name": "Boba",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boba",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Logreel",
+      "~CUSTOM:Bluereel",
+      "~CUSTOM:Corruptedpurplestone",
+      "~CUSTOM:Blobslabbrick",
+      "~CUSTOM:Blobbrick",
+      "~CUSTOM:Blackendrock",
+      "~CUSTOM:Packedblob",
+      "~CUSTOM:Orangeendrock",
+      "~CUSTOM:Yellowendrock",
+      "~CUSTOM:Blueendrock",
+      "~CUSTOM:Redendrock",
+      "~CUSTOM:Greenendrock",
+      "~CUSTOM:Purpleoreblock",
+      "~CUSTOM:Bob"
+    ],
+    "BLOCKS:minecraft:replaceable": [
+      "~CUSTOM:Endoil"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Logreel",
+      "~CUSTOM:Bluereel",
+      "~CUSTOM:Corruptedpurplestone",
+      "~CUSTOM:Blobslabbrick",
+      "~CUSTOM:Blobbrick",
+      "~CUSTOM:Blackendrock",
+      "~CUSTOM:Packedblob",
+      "~CUSTOM:Shine",
+      "~CUSTOM:Orangeendrock",
+      "~CUSTOM:Yellowendrock",
+      "~CUSTOM:Blueendrock",
+      "~CUSTOM:Redendrock",
+      "~CUSTOM:Greenendrock",
+      "~CUSTOM:Purpleoreblock",
+      "~CUSTOM:Bob"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:Blobslabbrick"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Blobsword"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.floi_better_end.shine": "Shine",
+      "item.floi_better_end.end_oil_bucket": "Endoil Bucket",
+      "tile.greenendrock.name": "green end rock",
+      "block.floi_better_end.end_oil": "End oil",
+      "tile.endgrass.name": "End grass",
+      "block.floi_better_end.greenendrock": "green end rock",
+      "block.floi_better_end.talltallpurpleplant": "pop plant",
+      "tile.blueendrock.name": "blue end rock ",
+      "block.floi_better_end.logreel": "log reel",
+      "block.floi_better_end.endvines": "end vines",
+      "block.floi_better_end.packedblob": "packed purple stuff",
+      "tile.yellowendrock.name": "yellow end rock",
+      "block.floi_better_end.smallvines": "small end vines",
+      "block.floi_better_end.corruptedpurplestone": "corrupted purple stone",
+      "block.floi_better_end.endflower": "end flower",
+      "block.floi_better_end.blobbrick": "Brick purple stuff",
+      "tile.bob.name": "purple stuff",
+      "block.floi_better_end.redendrock": "Red end rock",
+      "block.floi_better_end.orangeendrock": "orange end rock",
+      "item.floi_better_end.p_urpleore": "Purple ore ",
+      "block.floi_better_end.bob": "purple stuff",
+      "block.floi_better_end.purpleoreblock": "purple ore blcok",
+      "tile.talltallpurpleplant.name": "pop grass",
+      "block.floi_better_end.blackendrock": "Black end rock ",
+      "item.p_urpleore.name": "Purple ore ",
+      "tile.endflower.name": "end flower",
+      "fluid.floi_better_end.end_oil": "End oil",
+      "tile.redendrock.name": "Red end rock",
+      "block.floi_better_end.yellowendrock": "yellow end rock",
+      "tile.purpleoreblock.name": "purple ore blcok",
+      "block.floi_better_end.endgrass": "End grass",
+      "tile.endvines.name": "end flower",
+      "block.floi_better_end.blobslabbrick": "slab Brick purple stuff",
+      "block.floi_better_end.blueendrock": "blue end rock ",
+      "block.floi_better_end.bluereel": "reel",
+      "item.floi_better_end.blobsword": "Blob sword",
+      "fluid.end_oil": "Endoil"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "floi_better_end",
+    "modName": "floi better end",
+    "version": "1.0.0-1.20.1",
+    "description": "floi better end",
+    "author": "floi",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "untitled_design_43",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "floi",
+    "modElementsPackage": "net.mcreator.floibetterend"
+  },
+  "mcreatorVersion": 202400229712
+}

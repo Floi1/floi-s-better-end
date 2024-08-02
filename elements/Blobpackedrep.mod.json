@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bob"
+      },
+      {
+        "value": "CUSTOM:Bob"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bob"
+      },
+      {
+        "value": "CUSTOM:Bob"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Packedblob"
+    },
+    "name": "blobpackedrep",
+    "namespace": "mod"
+  }
+}
