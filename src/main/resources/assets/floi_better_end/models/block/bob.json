@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "floi_better_end:block/blob",
+    "particle": "floi_better_end:block/blob"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "floi_better_end:block/blob_brick",
+    "bottom": "floi_better_end:block/blob_brick",
+    "top": "floi_better_end:block/blob_brick",
+    "side": "floi_better_end:block/blob_brick"
+  },
+  "render_type": "solid"
+}

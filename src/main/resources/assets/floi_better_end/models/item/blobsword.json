@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "floi_better_end:item/purple_sword"
+  }
+}

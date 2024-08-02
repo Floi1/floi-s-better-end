@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "floi_better_end:block/end_flower",
+    "particle": "floi_better_end:block/end_flower"
+  },
+  "render_type": "cutout"
+}

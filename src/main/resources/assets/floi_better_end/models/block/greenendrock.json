@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "floi_better_end:block/green_endrock",
+    "particle": "floi_better_end:block/green_endrock"
+  },
+  "render_type": "solid"
+}

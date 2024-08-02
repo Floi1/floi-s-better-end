@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "floi_better_end:block/shinetwo",
+    "particle": "floi_better_end:block/shinetwo"
+  },
+  "render_type": "translucent"
+}
