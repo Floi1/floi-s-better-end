@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="floi_better_end"
+version="1.0.01.20.1"
+displayName="floi better end"
+displayURL="https://www.curseforge.com/minecraft/mc-mods"
+logoFile="logo.png"
+credits="floi"
+authors="floi"
+description="floi better end"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.floi_better_end]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "end_midlands",
+    "small_end_islands",
+    "the_end",
+    "end_barrens",
+    "end_highlands"
+  ],
+  "features": "floi_better_end:bluereel",
+  "step": "underground_ores"
+}

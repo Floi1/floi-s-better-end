@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "end_barrens",
+    "end_midlands"
+  ],
+  "features": "floi_better_end:endvines",
+  "step": "vegetal_decoration"
+}

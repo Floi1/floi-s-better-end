@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "small_end_islands",
+  "features": "floi_better_end:orangeendrock",
+  "step": "underground_ores"
+}

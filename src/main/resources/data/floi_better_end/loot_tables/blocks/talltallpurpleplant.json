@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "floi_better_end:blocks/talltallpurpleplant",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "floi_better_end:talltallpurpleplant",
+          "conditions": [
+            {
+              "block": "floi_better_end:talltallpurpleplant",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

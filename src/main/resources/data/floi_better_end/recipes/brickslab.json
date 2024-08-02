@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "floi_better_end:blobbrick"
+    },
+    {
+      "item": "floi_better_end:blobbrick"
+    },
+    {
+      "item": "floi_better_end:blobbrick"
+    }
+  ],
+  "result": {
+    "item": "floi_better_end:blobslabbrick",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "floi_better_end:bob"
+    }
+  },
+  "result": {
+    "item": "floi_better_end:packedblob",
+    "count": 1
+  }
+}

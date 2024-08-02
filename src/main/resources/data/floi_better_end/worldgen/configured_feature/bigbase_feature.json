@@ -1,0 +1,17 @@
+{
+  "type": "floi_better_end:structure_feature",
+  "config": {
+    "structure": "floi_better_end:big_base2",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ],
+    "offset": [
+      0,
+      -16,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "floi_better_end:blocks/smallvines",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "floi_better_end:smallvines",
+          "conditions": [
+            {
+              "block": "floi_better_end:smallvines",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

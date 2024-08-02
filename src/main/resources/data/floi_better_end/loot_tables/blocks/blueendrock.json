@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "floi_better_end:blocks/blueendrock",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "floi_better_end:blueendrock"
+        }
+      ]
+    }
+  ]
+}

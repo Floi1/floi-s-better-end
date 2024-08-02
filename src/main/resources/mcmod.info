@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "floi_better_end",
+    "name": "floi better end",
+    "description": "floi better end",
+    "version": "0.0.2",
+    "credits": "floi",
+    "logoFile": "assets/floi_better_end/textures/untitled_design_43.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods",
+    "updateUrl": "",
+    "authorList": [
+      "floi"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
